@@ -31,7 +31,7 @@
       },
       {
         "tag": "harga_kopi",
-        "patterns": ["Berapa harga dari produk di toko ini?", "Berapa harga produk?",]
+        "patterns": ["Berapa harga dari produk di toko ini?", "Berapa harga produk?"],
         "responses": ["List harga produk di toko = Kopi Espresso : Rp.47.000, Kopi Robusta Bali : Rp. 120.000, Kopi Arabika : 119.000, Kopi Robusta Toraja : Rp. 33.000, Kapal Api Special Merah : Rp.29.000, Kopi House Blend : Rp.51.000, 
         Kopi Tubruk Robusta : Rp.22.500, Kopi Luwak Lampung : Rp. 250.000"]
       },
